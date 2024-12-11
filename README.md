@@ -90,35 +90,7 @@ The chatbot will open in your default web browser. If not, visit `http://localho
 ├── app.py               # Main application script
 ├── requirements.txt     # Python dependencies
 ├── .env.example         # Example environment variables file
-├── README.md            # Project documentation
-└── assets/              # (Optional) Folder for images or static files
+└── README.md            # Project documentation
 ```
 
----
-
-## Future Enhancements
-
-- Add support for multilingual conversations.
-- Implement conversation export to file.
-- Enhance error handling and API integration robustness.
-- Deploy the chatbot on Streamlit Cloud or another hosting platform.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- Thanks to [Streamlit](https://streamlit.io) for the intuitive app-building framework.
-- Thanks to [Google Gemini-Pro](https://google.com) for the AI capabilities.
 
