@@ -22,6 +22,13 @@ Welcome to the **Gemini-Pro Chatbot** project! This is a simple, interactive cha
 
 ---
 
+## 🌟 Check Out the Live Demo  
+
+Experience the Gemini-Pro Chatbot in action:  
+[**Gemini-Pro Chatbot Live Demo**](https://gemini-assistant-ai.streamlit.app/)
+
+---
+
 ## Prerequisites
 
 Before running the project, ensure you have:
