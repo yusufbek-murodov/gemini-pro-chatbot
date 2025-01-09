@@ -43,7 +43,7 @@ Before running the project, ensure you have:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/gemini-pro-chatbot.git
+   git clone https://github.com/yusufbek-murodov/gemini-pro-chatbot.git
    cd gemini-pro-chatbot
    ```
 
@@ -87,17 +87,5 @@ The chatbot will open in your default web browser. If not, visit `http://localho
 1. Enter your query in the input box labeled **"Ask Gemini-Pro..."**.
 2. View the chatbot's response in the chat interface.
 3. The conversation history is displayed for context.
-
----
-
-## Project Structure
-
-```
-.
-├── app.py               # Main application script
-├── requirements.txt     # Python dependencies
-├── .env.example         # Example environment variables file
-└── README.md            # Project documentation
-```
 
 
